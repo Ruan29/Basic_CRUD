@@ -3,3 +3,4 @@
 *.php linguist-detectable=true
 *.html linguist-detectable=true
 *.hack linguist-detectable=false
+*.hack liguistic-language=HTML
