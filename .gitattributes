@@ -4,3 +4,4 @@
 *.html linguist-detectable=true
 *.hack linguist-detectable=false
 *.hack liguistic-language=HTML
+#not hack
